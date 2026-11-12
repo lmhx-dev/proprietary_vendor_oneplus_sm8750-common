@@ -47,7 +47,7 @@ IF ADVISED OF THE POSSIBILITY OF SUCH DAMAGE.
     <library>
       <name>libdolbyclstc.so</name>
       <priority>2</priority>
-      <enable>1</enable>
+      <enable>0</enable>
     </library>
     <!-- #endif /*OPLUS_FEATURE_DOLBY_VISION_DPU*/ -->
 
